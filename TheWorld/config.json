@@ -1,0 +1,11 @@
+﻿{
+  "MailSettings": {
+    "ToAddress": "dinushiherath1@gmail.com"
+  },
+  "ConnectionStrings": {
+    "WoldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Integrated Security=true;;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey":  "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
